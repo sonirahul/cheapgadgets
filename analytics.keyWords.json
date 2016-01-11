@@ -1,0 +1,546 @@
+{ 
+    "_id" : NumberLong(1451759400000), 
+    "keyWords" : [
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }
+    ], 
+    "user" : [
+        {
+            "date" : NumberLong(1451762359401), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }
+    ]
+}
+{ 
+    "_id" : NumberLong(1451845800000), 
+    "user" : [
+        {
+            "date" : NumberLong(1451931690899), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }
+    ]
+}
+{ 
+    "_id" : NumberLong(1451932200000), 
+    "user" : [
+        {
+            "date" : NumberLong(1451932200005), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452012972011), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(1)
+        }, 
+        {
+            "date" : NumberLong(1452013200958), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452014087354), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452015403821), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452015900471), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452018071241), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }
+    ]
+}
+{ 
+    "_id" : NumberLong(1452018600000), 
+    "user" : [
+        {
+            "date" : NumberLong(1452097744708), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452097800372), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452098700002), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452099600004), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452100500006), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452101400005), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452102300003), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }
+    ], 
+    "keyWords" : [
+        {
+            "keys" : "apple", 
+            "exists" : false
+        }
+    ]
+}
+{ 
+    "_id" : NumberLong(1452105000000), 
+    "user" : [
+        {
+            "date" : NumberLong(1452188465397), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452188701907), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452189600006), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452190500003), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }
+    ]
+}
+{ 
+    "_id" : NumberLong(1452191400000), 
+    "user" : [
+        {
+            "date" : NumberLong(1452191400005), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452268240544), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(1)
+        }, 
+        {
+            "date" : NumberLong(1452268800180), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452270477504), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452272897656), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452273339795), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452275039863), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(1)
+        }, 
+        {
+            "date" : NumberLong(1452275964168), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452276000284), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452277231569), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }
+    ]
+}
+{ 
+    "_id" : NumberLong(1452277800000), 
+    "user" : [
+        {
+            "date" : NumberLong(1452277800438), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452278700047), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452329627572), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(1)
+        }, 
+        {
+            "date" : NumberLong(1452330000541), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452332027016), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452332700003), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452333600002), 
+            "existingUserCounts" : NumberInt(3), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452348982045), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452349800014), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452357212963), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452357900001), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452358800002), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452359700002), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452360600007), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452362055420), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452363380506), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }
+    ], 
+    "keyWords" : [
+        {
+            "keys" : "apple", 
+            "exists" : false
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }
+    ]
+}
+{ 
+    "_id" : NumberLong(1452364200000), 
+    "user" : [
+        {
+            "date" : NumberLong(1452364201840), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452367427399), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452409081781), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452413086806), 
+            "existingUserCounts" : NumberInt(2), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452414026035), 
+            "existingUserCounts" : NumberInt(3), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452422473435), 
+            "existingUserCounts" : NumberInt(2), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452423497261), 
+            "existingUserCounts" : NumberInt(1), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452425417009), 
+            "existingUserCounts" : NumberInt(5), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452426300206), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452427200004), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452428100003), 
+            "existingUserCounts" : NumberInt(4), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452429000003), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452429900002), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452430800001), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452431700002), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452432600002), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452433500006), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452434400003), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452435300002), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452436200005), 
+            "existingUserCounts" : NumberInt(1), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452437100003), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452438000006), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452438900003), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452439800011), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452440700006), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452441600004), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452442966372), 
+            "existingUserCounts" : NumberInt(1), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452444153997), 
+            "existingUserCounts" : NumberInt(1), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452445806591), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452446100632), 
+            "existingUserCounts" : NumberInt(2), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452447000006), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452447900006), 
+            "existingUserCounts" : NumberInt(1), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452448800003), 
+            "existingUserCounts" : NumberInt(2), 
+            "newUserLogin" : NumberInt(0)
+        }, 
+        {
+            "date" : NumberLong(1452449700006), 
+            "existingUserCounts" : NumberInt(0), 
+            "newUserLogin" : NumberInt(0)
+        }
+    ], 
+    "keyWords" : [
+        {
+            "keys" : "apple 15", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple", 
+            "exists" : false
+        }, 
+        {
+            "keys" : "apple 197", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple 106", 
+            "exists" : true
+        }, 
+        {
+            "keys" : "apple", 
+            "exists" : false
+        }
+    ]
+}
+{ 
+    "_id" : NumberLong(1452450600000), 
+    "user" : [
+        {
+            "date" : NumberLong(1452450600005), 
+            "existingUserCounts" : NumberInt(4), 
+            "newUserLogin" : NumberInt(1)
+        }
+    ]
+}

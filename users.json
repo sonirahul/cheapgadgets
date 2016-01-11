@@ -1,0 +1,46 @@
+{ 
+    "_id" : "soni_rahul@live.com", 
+    "fullName" : "Rahul Soni", 
+    "insertedBy" : "System", 
+    "insertedDate" : NumberLong(1452334345141), 
+    "lastLogin" : NumberLong(1452451590204), 
+    "modifiedBy" : "System", 
+    "modifiedDate" : NumberLong(1452334345141), 
+    "oldPasswords" : [
+
+    ], 
+    "oldPhone" : [
+
+    ], 
+    "password" : "Pz8TP1c/P0U/Pz8/ZT8/Pw==", 
+    "phone" : [
+
+    ], 
+    "registered" : false, 
+    "userRole" : [
+        "admin"
+    ]
+}
+{ 
+    "_id" : "soni_ravi@live.com", 
+    "fullName" : "Ravi Soni", 
+    "insertedBy" : "System", 
+    "insertedDate" : NumberLong(1452428842728), 
+    "lastLogin" : NumberLong(1452428842724), 
+    "modifiedBy" : "System", 
+    "modifiedDate" : NumberLong(1452428842728), 
+    "oldPasswords" : [
+
+    ], 
+    "oldPhone" : [
+
+    ], 
+    "password" : "Pz8TP1c/P0U/Pz8/ZT8/Pw==", 
+    "phone" : [
+
+    ], 
+    "registered" : false, 
+    "userRole" : [
+        "user"
+    ]
+}
